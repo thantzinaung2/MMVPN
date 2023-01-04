@@ -1,0 +1,24 @@
+{
+//The version is for updates. If there is an update, the number must be changed to be greater than before.
+"Version":"1.8",
+//Link to update server
+"Url":"https://github.com/thantzinaung2/MMVPN/blob/main/Thant.zip", 
+
+"Changelog":"-----------------------------------------------------------
+ဖိုင်တင်တဲ့နေ့စွဲ/ရက် 1/01/2023 ဖိုင်အား
+အပ်ဒိပ်ပေးခဲ့ပါသည်
+-----------------------------------------------------------",
+
+
+
+
+
+
+//don't mess below
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+"releaseNotes": [
+"-Demo" 
+  ]
+}
